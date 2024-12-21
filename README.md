@@ -1,4 +1,4 @@
-![:totobono4](https://count.getloli.com/@:totobono4)
+![:totobono4](https://count.getloli.com/@totobono4?name=totobono4&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 <!--
 **totobono4/totobono4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
