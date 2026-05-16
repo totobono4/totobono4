@@ -69,7 +69,7 @@ class totobono4:
 | 📺 **Anime** | The next episode starts in 3 min, come back later `(＞﹏＜)` |
 | 🎮 **Game** | Rai-Net Access Battlers — I'm playing it AND coding it `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧` |
 | 📖 **VN** | Something from the SciAdv universe, obviously `(｡♥‿♥｡)` |
-| 🎧 **Music** | Takeshi Abo OST on loop (yes, again) `♪～(´ε｀ )` |
+| 🎧 **Music** | Hatsune Miku on loop (yes, again) `♪～(´ε｀ )` |
 | 💻 **Code** | That thing over there, in the repos, go check it out `(・∀・)` |
 
 ---
