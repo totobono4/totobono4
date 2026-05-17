@@ -43,7 +43,7 @@ class totobono4:
 
 ### 🌸 Featured Project (ง •̀_•́)ง
 
-> 🎮 **[Rai-Net Access Battlers](https://github.com/totobono4/Rai-Net-Access-Battlers)** — adaptation of the board game seen in *Chaos;Child* (Science Adventure universe).  
+> 🎮 **[Rai-Net Access Battlers](https://github.com/totobono4/Rai-Net-Access-Battlers)** — adaptation of the board game seen in *Steins;Gate* (Science Adventure universe).  
 > Because if the game exists in the anime, it must exist IRL. That's just logic. `(｀・ω・´)`
 
 ---
