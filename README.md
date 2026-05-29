@@ -25,17 +25,18 @@ class totobono4:
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-e879b0?style=for-the-badge&logo=dotnet&logoColor=white)
-![C](https://img.shields.io/badge/C-9b5de5?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-c89be0?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-e879b0?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-9b5de5?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-c89be0?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-e879b0?style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-9b5de5?style=for-the-badge&logo=lua&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-c89be0?style=for-the-badge&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-e879b0?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9b5de5?style=for-the-badge&logo=git&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-e879b0?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9b5de5?style=for-the-badge&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-c89be0?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-e879b0?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9b5de5?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-c89be0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-e879b0?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-9b5de5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-c89be0?style=for-the-badge&logo=lua&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-e879b0?style=for-the-badge&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-9b5de5?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-c89be0?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
